@@ -10,6 +10,5 @@ I got some basic notions but most of it will feel like dark magic. I'll try draw
 
 ## Day 1
 
-* Reading files is so obscure. How would I know of the existence of functions such as `getline` if it wasn't for Google? Wtf is C99 or C86, what does it have anything to do
-with `atoi` or `strtol`?
+* Use man-pages to lookup function explanations. E.g. `man fseek` will display info about fseek function.
 
