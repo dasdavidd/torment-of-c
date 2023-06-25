@@ -8,7 +8,12 @@ Jokes aside, programming is fun and I feel like torturing myself with C could be
 My goal is to become more familiar with how resources work and get a better grasp of how my beloved technologies work under the hood.
 I got some basic notions but most of it will feel like dark magic. I'll try drawing some conclusions for each day and part.
 
+This is going to take ages.
+
 ## Day 1
 
 * Use man-pages to lookup function explanations. E.g. `man fseek` will display info about fseek function.
 
+## Day 2
+
+* Managing memory is absolutely harder than I assumed. Makes you appreciate the wondrous data structures provided in higher level languages.
